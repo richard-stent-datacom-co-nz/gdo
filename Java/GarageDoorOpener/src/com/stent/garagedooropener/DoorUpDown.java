@@ -1,3 +1,4 @@
+// Version2 started 31 December 2018 when learning GitHub
 package com.stent.garagedooropener;
 
 import java.io.IOException;
