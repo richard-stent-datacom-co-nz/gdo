@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">GarageDoorOpener</string>
+    <string name="main_activity_text">Garage Door Opener</string>
+    <string name="menu_settings">GDO Settings</string>
+    <string name="title_activity_gdo_main">Garage Door Opener</string>
+    <string name="right_door">RIGHT Door</string>
+    <string name="left_door">LEFT Door</string>
+    <string name="garage_door_activation">Door</string>
+    <string name="title_activity_door_up_down">DoorUpDown</string>
+    <string name="title_activity_gdo_settings">GdoSettingsActivity</string>
+
+</resources>
